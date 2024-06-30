@@ -554,6 +554,7 @@ body {
 }
 
 .media-footer {
+    fill: var(--main-background-color);
     background-color: var(--footer-icon-background);
     border-radius: 50%;
 }
